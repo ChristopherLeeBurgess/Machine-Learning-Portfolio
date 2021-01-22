@@ -1,2 +1,2 @@
 # Machine Learning Portfolio
-This repository contains python code attributed to my research in statistical algebra.
+This repository contains fundamental practices in machine learning and artificial intelligence. 
